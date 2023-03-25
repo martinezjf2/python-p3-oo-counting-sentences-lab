@@ -38,7 +38,7 @@ class MyString:
     return len(a) - 1
     
     # Resource: https://datagy.io/python-split-string-multiple-delimiters/
-    
+    # Resource: https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python
     # split_string = re.split(r'[.|!|?]', self.sentence)
     # return split_string.count
     pass
